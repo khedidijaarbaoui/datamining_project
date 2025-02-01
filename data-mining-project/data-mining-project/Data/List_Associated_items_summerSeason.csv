@@ -1,0 +1,102 @@
+antecedents,consequents,support,confidence,lift
+produit fongicide,matériel divers,0.6923076923076923,0.9473684210526315,0.9985775248933143
+produit raticide + anti insect,matériel divers,0.6923076923076923,0.9642857142857142,1.0164092664092663
+produit raticide + anti insect,produit engrai,0.6282051282051282,0.8749999999999999,0.9891304347826086
+"produit raticide + anti insect, matériel apiculture",matériel divers,0.6666666666666666,0.9811320754716981,1.0341662417134116
+"produit fongicide, matériel apiculture",produit engrai,0.6923076923076923,0.9642857142857142,1.0900621118012421
+"matériel apiculture, produit engrai",produit fongicide,0.6923076923076923,0.8181818181818181,1.1196172248803828
+"produit raticide + anti insect, matériel apiculture",produit insecticide,0.6794871794871795,1.0,1.0129870129870129
+"matériel d'irrigation, produit raticide + anti insect",matériel divers,0.6923076923076923,0.9642857142857142,1.0164092664092663
+"matériel d'irrigation, produit raticide + anti insect",produit engrai,0.6282051282051282,0.8749999999999999,0.9891304347826086
+"matériel divers, produit fongicide",produit engrai,0.6666666666666666,0.962962962962963,1.0885668276972627
+"matériel divers, produit engrai",produit fongicide,0.6666666666666666,0.8,1.0947368421052632
+"produit fongicide, produit engrai",matériel divers,0.6666666666666666,0.9454545454545454,0.9965601965601966
+produit fongicide,"matériel divers, produit engrai",0.6666666666666666,0.912280701754386,1.0947368421052632
+"matériel divers, produit raticide + anti insect",produit engrai,0.6025641025641025,0.8703703703703705,0.9838969404186797
+"produit raticide + anti insect, produit engrai",matériel divers,0.6025641025641025,0.9591836734693878,1.0110314396028683
+"matériel divers, produit fongicide",produit insecticide,0.6923076923076923,1.0,1.0129870129870129
+"produit insecticide, produit fongicide",matériel divers,0.6923076923076923,0.9473684210526315,0.9985775248933143
+produit fongicide,"matériel divers, produit insecticide",0.6923076923076923,0.9473684210526315,1.012256669069935
+"matériel divers, produit raticide + anti insect",produit insecticide,0.6923076923076923,1.0,1.0129870129870129
+"produit raticide + anti insect, produit insecticide",matériel divers,0.6923076923076923,0.9642857142857142,1.0164092664092663
+produit raticide + anti insect,"matériel divers, produit insecticide",0.6923076923076923,0.9642857142857142,1.0303326810176123
+"produit raticide + anti insect, produit insecticide",produit engrai,0.6282051282051282,0.8749999999999999,0.9891304347826086
+"produit raticide + anti insect, produit engrai",produit insecticide,0.6282051282051282,1.0,1.0129870129870129
+produit raticide + anti insect,"produit insecticide, produit engrai",0.6282051282051282,0.8749999999999999,1.003676470588235
+"matériel divers, produit raticide + anti insect, matériel apiculture",produit insecticide,0.6666666666666666,1.0,1.0129870129870129
+"produit raticide + anti insect, produit insecticide, matériel apiculture",matériel divers,0.6666666666666666,0.9811320754716981,1.0341662417134116
+"produit raticide + anti insect, matériel apiculture","matériel divers, produit insecticide",0.6666666666666666,0.9811320754716981,1.0483329025588006
+"produit insecticide, produit fongicide, matériel apiculture",produit engrai,0.6923076923076923,0.9642857142857142,1.0900621118012421
+"produit insecticide, matériel apiculture, produit engrai",produit fongicide,0.6923076923076923,0.8307692307692307,1.1368421052631579
+"produit fongicide, produit engrai, matériel apiculture",produit insecticide,0.6923076923076923,1.0,1.0129870129870129
+"produit fongicide, matériel apiculture","produit insecticide, produit engrai",0.6923076923076923,0.9642857142857142,1.1060924369747898
+"matériel apiculture, produit engrai","produit insecticide, produit fongicide",0.6923076923076923,0.8181818181818181,1.1196172248803828
+"matériel d'irrigation, produit raticide + anti insect, matériel divers",produit engrai,0.6025641025641025,0.8703703703703705,0.9838969404186797
+"matériel d'irrigation, produit raticide + anti insect, produit engrai",matériel divers,0.6025641025641025,0.9591836734693878,1.0110314396028683
+"matériel d'irrigation, produit insecticide, produit raticide + anti insect",matériel divers,0.6923076923076923,0.9642857142857142,1.0164092664092663
+"matériel d'irrigation, produit raticide + anti insect, matériel divers",produit insecticide,0.6923076923076923,1.0,1.0129870129870129
+"matériel d'irrigation, produit raticide + anti insect","matériel divers, produit insecticide",0.6923076923076923,0.9642857142857142,1.0303326810176123
+"matériel d'irrigation, produit insecticide, produit raticide + anti insect",produit engrai,0.6282051282051282,0.8749999999999999,0.9891304347826086
+"matériel d'irrigation, produit raticide + anti insect, produit engrai",produit insecticide,0.6282051282051282,1.0,1.0129870129870129
+"matériel d'irrigation, produit raticide + anti insect","produit insecticide, produit engrai",0.6282051282051282,0.8749999999999999,1.003676470588235
+"matériel divers, produit insecticide, produit fongicide",produit engrai,0.6666666666666666,0.962962962962963,1.0885668276972627
+"matériel divers, produit insecticide, produit engrai",produit fongicide,0.6666666666666666,0.8125,1.111842105263158
+"matériel divers, produit fongicide, produit engrai",produit insecticide,0.6666666666666666,1.0,1.0129870129870129
+"produit insecticide, produit fongicide, produit engrai",matériel divers,0.6666666666666666,0.9454545454545454,0.9965601965601966
+"matériel divers, produit fongicide","produit insecticide, produit engrai",0.6666666666666666,0.962962962962963,1.1045751633986929
+"matériel divers, produit engrai","produit insecticide, produit fongicide",0.6666666666666666,0.8,1.0947368421052632
+"produit insecticide, produit fongicide","matériel divers, produit engrai",0.6666666666666666,0.912280701754386,1.0947368421052632
+"produit fongicide, produit engrai","matériel divers, produit insecticide",0.6666666666666666,0.9454545454545454,1.010211706102117
+produit fongicide,"matériel divers, produit insecticide, produit engrai",0.6666666666666666,0.912280701754386,1.111842105263158
+"matériel divers, produit insecticide, produit raticide + anti insect",produit engrai,0.6025641025641025,0.8703703703703705,0.9838969404186797
+"matériel divers, produit raticide + anti insect, produit engrai",produit insecticide,0.6025641025641025,1.0,1.0129870129870129
+"produit raticide + anti insect, produit insecticide, produit engrai",matériel divers,0.6025641025641025,0.9591836734693878,1.0110314396028683
+"matériel divers, produit raticide + anti insect","produit insecticide, produit engrai",0.6025641025641025,0.8703703703703705,0.9983660130718955
+"produit raticide + anti insect, produit engrai","matériel divers, produit insecticide",0.6025641025641025,0.9591836734693878,1.0248811853508528
+"matériel d'irrigation, produit raticide + anti insect, matériel divers, produit engrai",produit insecticide,0.6025641025641025,1.0,1.0129870129870129
+"matériel d'irrigation, produit raticide + anti insect, produit insecticide, produit engrai",matériel divers,0.6025641025641025,0.9591836734693878,1.0110314396028683
+"matériel d'irrigation, produit raticide + anti insect, matériel divers, produit insecticide",produit engrai,0.6025641025641025,0.8703703703703705,0.9838969404186797
+"matériel d'irrigation, produit raticide + anti insect, produit engrai","matériel divers, produit insecticide",0.6025641025641025,0.9591836734693878,1.0248811853508528
+"matériel d'irrigation, produit raticide + anti insect, matériel divers","produit insecticide, produit engrai",0.6025641025641025,0.8703703703703705,0.9983660130718955
+"matériel d'irrigation, produit raticide + anti insect, produit insecticide","matériel divers, produit engrai",0.6025641025641025,0.8392857142857143,1.0071428571428571
+"produit fongicide, matériel apiculture",produit insecticide,0.6829268292682927,1.0,1.0512820512820513
+"matériel d'irrigation, produit fongicide",produit engrai,0.6753246753246753,1.0,1.0266666666666666
+"matériel d'irrigation, produit fongicide",produit insecticide,0.6753246753246753,1.0,1.0
+"matériel d'irrigation, produit insecticide, produit fongicide",produit engrai,0.6753246753246753,1.0,1.0266666666666666
+"matériel d'irrigation, produit insecticide, produit engrai",produit fongicide,0.6753246753246753,0.8813559322033898,1.012901593726284
+"matériel d'irrigation, produit fongicide, produit engrai",produit insecticide,0.6753246753246753,1.0,1.0
+"matériel d'irrigation, produit fongicide","produit insecticide, produit engrai",0.6753246753246753,1.0,1.0266666666666666
+matériel d'irrigation,produit engrai,0.6933333333333334,0.8813559322033899,1.016949152542373
+"matériel d'irrigation, matériel divers",produit engrai,0.6266666666666667,0.8867924528301887,1.02322206095791
+"matériel d'irrigation, produit engrai",matériel divers,0.6266666666666667,0.9038461538461539,1.027097902097902
+"matériel d'irrigation, produit insecticide",matériel divers,0.6933333333333334,0.896551724137931,1.0188087774294672
+"matériel d'irrigation, matériel divers",produit insecticide,0.6933333333333334,0.9811320754716981,1.0080124063065392
+matériel d'irrigation,"matériel divers, produit insecticide",0.6933333333333334,0.8813559322033899,1.0328389830508475
+"matériel d'irrigation, produit insecticide",produit engrai,0.6933333333333334,0.896551724137931,1.0344827586206897
+"matériel d'irrigation, produit engrai",produit insecticide,0.6933333333333334,1.0,1.0273972602739725
+matériel d'irrigation,"produit insecticide, produit engrai",0.6933333333333334,0.8813559322033899,1.0328389830508475
+"matériel d'irrigation, produit insecticide, matériel divers",produit engrai,0.6266666666666667,0.9038461538461539,1.0428994082840237
+"matériel d'irrigation, produit insecticide, produit engrai",matériel divers,0.6266666666666667,0.9038461538461539,1.027097902097902
+"matériel d'irrigation, matériel divers, produit engrai",produit insecticide,0.6266666666666667,1.0,1.0273972602739725
+"matériel d'irrigation, produit insecticide","matériel divers, produit engrai",0.6266666666666667,0.810344827586207,1.0478596908442332
+"matériel d'irrigation, matériel divers","produit insecticide, produit engrai",0.6266666666666667,0.8867924528301887,1.0392099056603774
+"matériel d'irrigation, produit engrai","matériel divers, produit insecticide",0.6266666666666667,0.9038461538461539,1.0591947115384615
+matériel d'irrigation,matériel divers,0.6455696202531646,0.9272727272727272,1.0174242424242423
+matériel d'irrigation,produit insecticide,0.6962025316455697,1.0,1.0128205128205128
+"matériel d'irrigation, produit raticide + anti insect",produit insecticide,0.6962025316455697,1.0,1.0128205128205128
+matériel apiculture,matériel divers,0.6753246753246753,0.8965517241379309,0.9862068965517241
+"matériel divers, matériel apiculture",produit engrai,0.6753246753246753,1.0,1.0
+"matériel apiculture, produit engrai",matériel divers,0.6753246753246753,0.8965517241379309,0.9862068965517241
+"matériel divers, matériel apiculture",produit insecticide,0.6753246753246753,1.0,1.0
+"produit insecticide, matériel apiculture",matériel divers,0.6753246753246753,0.8965517241379309,0.9862068965517241
+matériel apiculture,"matériel divers, produit insecticide",0.6753246753246753,0.8965517241379309,0.9862068965517241
+"matériel divers, produit insecticide, matériel apiculture",produit engrai,0.6753246753246753,1.0,1.0
+"matériel divers, matériel apiculture, produit engrai",produit insecticide,0.6753246753246753,1.0,1.0
+"produit insecticide, matériel apiculture, produit engrai",matériel divers,0.6753246753246753,0.8965517241379309,0.9862068965517241
+"matériel divers, matériel apiculture","produit insecticide, produit engrai",0.6753246753246753,1.0,1.0
+"matériel apiculture, produit engrai","matériel divers, produit insecticide",0.6753246753246753,0.8965517241379309,0.9862068965517241
+matériel apiculture,produit engrai,0.6666666666666666,0.9696969696969697,1.0118577075098814
+matériel apiculture,produit insecticide,0.6875,1.0,1.0
+"produit insecticide, matériel apiculture",produit engrai,0.6666666666666666,0.9696969696969697,1.0118577075098814
+"matériel apiculture, produit engrai",produit insecticide,0.6666666666666666,1.0,1.0
+matériel apiculture,"produit insecticide, produit engrai",0.6666666666666666,0.9696969696969697,1.0118577075098814
